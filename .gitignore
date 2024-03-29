@@ -1,2 +1,4 @@
 .env
 ./VOs
+*.txt
+*.mp3
